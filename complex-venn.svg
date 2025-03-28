@@ -1,0 +1,12 @@
+<svg width="500" height="500"><svg width="600" height="350"><g class="venn-area venn-circle" data-venn-sets="AOR"><path style="fill-opacity: 0.3; fill: #1f77b4; stroke: #fff; stroke-width: 3;" d="
+M 235.36435947073096 175 
+m -160 0 
+a 160 160 0 1 0 320 0 
+a 160 160 0 1 0 -320 0"></path><text class="label" text-anchor="middle" dy=".35em" x="140" y="174" style="fill: black; font-size: 16px; font-weight: bold;"><tspan x="140" y="174" dy="0.35em">AOR</tspan></text></g><g class="venn-area venn-circle" data-venn-sets="RESULT"><path style="fill-opacity: 0.3; fill: #ff7f0e; stroke: #fff; stroke-width: 3;" d="
+M 364.6356405292691 175 
+m -160 0 
+a 160 160 0 1 0 320 0 
+a 160 160 0 1 0 -320 0"></path><text class="label" text-anchor="middle" dy=".35em" x="460" y="175" style="fill: black; font-size: 16px; font-weight: bold;"><tspan x="460" y="175" dy="0.35em">RESULT</tspan></text></g><g class="venn-area venn-intersection" data-venn-sets="RESULT_AOR"><path style="fill-opacity: 0;" d="
+M 300 321.3633628110912 
+A 160 160 0 0 1 300 28.63663718890882 
+A 160 160 0 0 1 300 321.3633628110912"></path><text class="label" text-anchor="middle" dy=".35em" x="300" y="174" style="fill: #444;"><tspan x="300" y="174" dy="0.35em"></tspan></text></g></svg></svg>
